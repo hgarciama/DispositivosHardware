@@ -127,10 +127,12 @@ section {
     font-style: italic;
 }
 
-#queEs1{
+#queEs{
     width: 130%;
     position: relative;
     align-items: center;
+    color: #000000;
+    left: 400px;
 
 }
 
@@ -163,11 +165,12 @@ section {
     padding: auto;
 }
 
-#caracteristicas1{
+#caracteristicas{
     position: absolute;
     top: 2000px;
     left: 400px;
     font-style: italic;
+    color: #000000;
 }
 #caracteristicas2{
     position: absolute;
@@ -236,11 +239,12 @@ section {
 }
 
 
-#productos1{
+#productos{
     position: relative;
     left: 400px;
     font-style: italic;
     top: 2900px ;
+    color: #000000;
 }
 
 .botones a{
